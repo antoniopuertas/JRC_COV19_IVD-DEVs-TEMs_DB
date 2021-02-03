@@ -1,4 +1,4 @@
-# Extraction of Scientific Literature for SARS2-nCov detection methods
+# Extraction of Scientific Literature for SARS-CoV-2 detection methods
 
 ## This is a work in progress
 
